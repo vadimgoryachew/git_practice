@@ -10,3 +10,4 @@ Format: ![Alt Text](url)
 
 I think you should use an
 `<addr>` element here instead.
+	@octocat :+1: This PR looks great - it's ready to merge! :shipit:
